@@ -8,7 +8,7 @@ For the **full SBERT documentation**, see **[www.SBERT.net](https://www.sbert.ne
 
 Steps taken are:
 1. Convert sentences into vectors using one of the SBERT models (see all sentence-transformers models [here](https://huggingface.co/sentence-transformers)).
-2. Compare two documents: a query document and a source document. Each sentence vector in a query document is compared with all the sentence vectors in the source documents, using cosine similarity (a.k.a. the smallest angle between the setence vectors).
+2. Compare two documents: a query document and a source document. Each sentence vector in a query document is compared with all the sentence vectors in the source documents, using cosine similarity (i.e., the smallest angle between the setence vectors).
 3. Pair sentence vectors with the highest cosine similarity are considered as the candidates for plagiarism.
 
 After reviewing preliminary results, model [paraphrase-distilroberta-base-v2](https://huggingface.co/sentence-transformers/paraphrase-distilroberta-base-v2) was chosen as it demonstrated better accuracy for my dataset. Initial results show a lot of false positives because of the common legal disclaimer that's used across the whitepapers. In the next iteration, I removed hits against the legal disclaimer and sentences lengths that are less than 20 to reduce noise arising from parsing issues. 
