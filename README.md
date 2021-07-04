@@ -4,9 +4,12 @@ Plagiarism is using someone else's words and ideas as your own without acknowled
 
 First, to narrow down the scope of plagiarism, I focus on the most common forms which are copying materials, ideas or concepts without providing the original source or paraphrasing another ideas without credit. As one can imagine, instances of blatant copying of material can be quite easily detected with human eyes. Identifying paraphrases, on the other hand, needs a bit more work. Therefore, in this project, I delve more into the paraphrase identification. Traditional approaches use a string-matching scheme with lexicons as distinct features. Unfortunately, these approaches are unable to recognize the syntactic and semantic changes in the text data, a.k.a. paraphrasing. Inspired by [Gharavi et al. 2016](https://www.researchgate.net/publication/333355065_A_Deep_Learning_Approach_to_Persian_Plagiarism_Detection), I leveraged a deep learning-based method as it doesn't require labeled data or hand-crafted feature engineering. Unlike the paper, which features sentence representations using aggregated word vectors generated via word2vec, I chose to leverage [Sentece-BERT (SBERT)](https://arxiv.org/pdf/1908.10084.pdf) to drive sentence level representations directly. 
 
-For the **full documentation**, see **[www.SBERT.net](https://www.sbert.net)**.
+For the **full SBERT documentation**, see **[www.SBERT.net](https://www.sbert.net)**.
 
-I compare two documents: a query document and a source document. Each sentence in a query document is compared with all the sentences in the source documents. Pair sentences with the highest cosine similarity (based off of sentence level representations) are considered as the candidates for plagiarism.
+Steps taken are:
+1. Convert sentences into vectors using one of the SBERT models (see all sentence-transformers models [here](https://huggingface.co/sentence-transformers).
+2. Compare two documents: a query document and a source document. Each sentence vector in a query document is compared with all the sentence vectors in the source documents, using cosine similarity (a.k.a. the smallest angle between the setence vectors).
+3. Pair sentence vectors with the highest cosine similarity are considered as the candidates for plagiarism.
 
 After reviewing preliminary results, model [paraphrase-distilroberta-base-v2](https://huggingface.co/sentence-transformers/paraphrase-distilroberta-base-v2) was chosen as it demonstrated better accuracy for my dataset. Initial results show a lot of false positives because of the common legal disclaimer that's used across the whitepapers. In the next iteration, I removed hits against the legal disclaimer and sentences lengths that are less than 20 to reduce noise arising from parsing issues. 
 
