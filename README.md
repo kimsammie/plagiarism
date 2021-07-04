@@ -13,4 +13,11 @@ Steps taken are:
 
 After reviewing preliminary results, model [paraphrase-distilroberta-base-v2](https://huggingface.co/sentence-transformers/paraphrase-distilroberta-base-v2) was chosen as it demonstrated better accuracy for my dataset. Initial results show a lot of false positives because of the common legal disclaimer that's used across the whitepapers. In the next iteration, I removed hits against the legal disclaimer and sentences lengths that are less than 20 to reduce noise arising from parsing issues. 
 
-Out of [290 Whitepapers](https://github.com/kimsammie/plagiarism/blob/main/whitepaper_list.csv) examined, 3 pairs of whitepapers (need to add percentage of hits out of number of all sentences)
+Out of [290 Whitepapers](https://github.com/kimsammie/plagiarism/blob/main/whitepaper_list.csv) examined, the below 3 pairs of whitepapers were detected as potentially plagiarised papers. Note that the model detects potential plagiarism according to guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification. 
+
+* Sport_and_Leisure.docx vs. AllSports.docx
+* PRIZM.docx vs. Nxt.docx
+* RealTract.docx vs. Constellation.docx
+
+(TO DO: need to add percentage of hits out of number of all sentences, create separate csvs and links)
+
