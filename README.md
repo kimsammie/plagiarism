@@ -7,7 +7,7 @@ First, to narrow down the scope of plagiarism, I focus on the most common forms 
 For the **full SBERT documentation**, see **[www.SBERT.net](https://www.sbert.net)**.
 
 Steps taken are:
-1. Convert sentences into vectors using one of the SBERT models (see all sentence-transformers models [here](https://huggingface.co/sentence-transformers).
+1. Convert sentences into vectors using one of the SBERT models (see all sentence-transformers models [here](https://huggingface.co/sentence-transformers)).
 2. Compare two documents: a query document and a source document. Each sentence vector in a query document is compared with all the sentence vectors in the source documents, using cosine similarity (a.k.a. the smallest angle between the setence vectors).
 3. Pair sentence vectors with the highest cosine similarity are considered as the candidates for plagiarism.
 
