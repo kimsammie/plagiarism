@@ -1,4 +1,4 @@
-# plagiarism
+# Plagiarism Detection for Crypto Whitepapers Using SBERT
 
 Plagiarism is using someone else's words and ideas as your own without acknowledgement. Plagiarism is bad because it's essentially stealing someone else's intellectual property. It's also problematic because it suggests that the person who plagiarised might not posess the abilities or knowledge demonstrated in the work. In an academic setting, plagiarism often results in serious consequences, such as course failure, suspension, and possibly dismissal. In real world scenario though, how do we handle plagiarism? Especially, in the fast evolving world of crypto-markets, do we punish or reward such behavior? 
 
