@@ -15,7 +15,7 @@ After reviewing preliminary results, model [paraphrase-distilroberta-base-v2](ht
 
 Out of [290 Whitepapers](https://github.com/kimsammie/plagiarism/blob/main/whitepaper_list.csv) examined, the below 3 pairs of whitepapers were detected as potentially plagiarised papers. Note that the model detects potential plagiarism according to guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification. 
 
-* Sport_and_Leisure vs. AllSports
+* [Sport_and_Leisure vs. AllSports](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/Sport_and_Leisure_vs._AllSports)
 * PRIZM vs. Nxt
 * RealTract vs. Constellation
 
