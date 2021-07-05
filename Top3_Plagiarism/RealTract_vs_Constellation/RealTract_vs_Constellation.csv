@@ -1,0 +1,57 @@
+key,query,source,score
+RealTract.docx@Constellation.docx,we incorporate guru’s validation framework for our delegate selection method.,we incorporate guru’s validation framework for our delegate selection method.,1.000000715
+RealTract.docx@Constellation.docx,further details will be added during the development process.,further details will be added during the development process.,1.000000715
+RealTract.docx@Constellation.docx,we now detail how this score is used for delegate selection.,we now detail how this score is used for delegate selection.,1.000000477
+RealTract.docx@Constellation.docx,"our idea for delegate selection in the inductive case is as follows:
+
+consensus is performed.","our idea for delegate selection in the inductive case is as follows:
+
+consensus is performed.",1.000000238
+RealTract.docx@Constellation.docx,"once this checkpoint block is filled with the previous round plus new transactions, it is hashed.","once this checkpoint block is filled with the previous round plus new transactions, it is hashed.",1
+RealTract.docx@Constellation.docx,this is isomorphic to a fold operation.,this is isomorphic to a fold operation.,1
+RealTract.docx@Constellation.docx,there is a body of work related to extended trust chain that solves the problem of sybil resistant reputation modeling.,there is a body of work related to extended trust chain that solves the problem of sybil resistant reputation modeling.,1
+RealTract.docx@Constellation.docx,this allows us a kind of trust that is neglected in existing technologies which enforces good behavior with transaction fees and inegalitarian consensus mechanisms.,this allows us a kind of trust that is neglected in existing technologies which enforces good behavior with transaction fees and inegalitarian consensus mechanisms.,0.999999881
+RealTract.docx@Constellation.docx,these are all components to our delegate selection as follows.,these are all components to our delegate selection as follows.,0.999999881
+RealTract.docx@Constellation.docx,we will adapt temporal pagerank to update reputation state.,we will adapt temporal pagerank to update reputation state.,0.999999762
+RealTract.docx@Constellation.docx,the previous block hash (result of last consensus) is used to sort the contents of each bucket and the top n from each bucket (according to a probability distribution) are selected for this round.,the previous block hash (result of last consensus) is used to sort the contents of each bucket and the top n from each bucket (according to a probability distribution) are selected for this round.,0.999999762
+RealTract.docx@Constellation.docx,the filling of the transaction pool is isomorphic to an unfold operation.,the filling of the transaction pool is isomorphic to an unfold operation.,0.999999642
+RealTract.docx@Constellation.docx,this is meant to maximize throughput by relaxing the number of facilitators yet maintaining the same level of fault tolerance and confirmation times.,this is meant to maximize throughput by relaxing the number of facilitators yet maintaining the same level of fault tolerance and confirmation times.,0.999999404
+RealTract.docx@Constellation.docx,the catamorphic part can be defined as a combination of an initial value c ∈ c for the fold and a binary operator ⊕ : b ×c → c used to perform a fold.,"the catamorphic part can be defined as a combination of an initial value
+c ∈ c for the fold and a binary operator ⊕ : b × c → c used to perform a fold.",0.99254179
+RealTract.docx@Constellation.docx,"have shown that the typical fault tolerance of 1/3 malicious nodes in
+
+byzantine consensus can be improved to up to (and in some cases over) 1/2.",have shown that the typical fault tolerance of 1/3 malicious nodes in byzantine consensus can be improved to up to (and in some cases over) 1/2.,0.989714026
+RealTract.docx@Constellation.docx,probabilistic delegate selection has been studied extensively within the context of improving bft in asynchronous consensus mechanisms guru.,"probabilistic delegate selection has been studied extensively within the context of improving bft in asynchronous consensus mechanisms 16. specifically in their work on guru, a. biryukov et al.",0.956717849
+RealTract.docx@Constellation.docx,"our use of reputation based scoring for delegate selection with proof-of-result, in conjunction with each node’s role as an individual account, allows our permissionless network the benefits of a permissioned system by enforcing transparency which incentivizes good behavior.","our use of reputation based scoring for delegate selection with proof-ofmeme,inconjunctionwitheachnode’sroleasanindividualaccount,allows our permissionless network the benefits of a permissioned system by enforcing transparency which incentivizes good behavior.",0.931132317
+RealTract.docx@Constellation.docx,"proof-of-result explained
+
+we have discussed three bodies of work that solve issues with collusion in distributed consensus.","proof-of-meme explained
+
+we have discussed three bodies of work that solve issues with collusion in distributed consensus.",0.930044889
+RealTract.docx@Constellation.docx,"all transaction and consensus history, for every block, is publicly notarized.","all transaction and consensus history, for every node (and transitively microservice), is publicly notarized.",0.903136849
+RealTract.docx@Constellation.docx,the st of a consensus participant who acts faulty or provably malicious (as verifiable within logs) will be docked in the next consensus participant election.,the meme of a consensus participant who acts faulty or provably malicious (as verifiable within logs) will be docked in the next consensus participant election.,0.898145318
+RealTract.docx@Constellation.docx,"from a computational perspective, this will probably be implemented as a clustering algorithm that re-clusters blocks as a subroutine.","from a computational perspective, this will probably be implemented as a clustering algorithm that re-clusters nodes as a subroutine.",0.895181715
+RealTract.docx@Constellation.docx,"each feature is representative of a block to the network (has it been notable faulty during consensus, how much memory can it commit to consensus and so on and so forth).","each feature is representative of a node’s utility to the network (has it been notable faulty during consensus, how much memory can it commit to consensus and so on and so forth).",0.894560933
+RealTract.docx@Constellation.docx,"guru: universal reputation module for distributed consensus protocols, a. biryukov et al.","building a reputation ontology, training a deterministic model for reputation score and implementing a sampling
+
+16guru: universal reputation module for distributed consensus protocols, a. biryukov et al.",0.890558243
+RealTract.docx@Constellation.docx,this is performed at the top consensus tier (dot) which is responsible for choosing facilitators.,this is performed at the top consensus tier (galaxy) which is responsible for choosing facilitators.,0.885835052
+RealTract.docx@Constellation.docx,"thus in our case, it represents benevolent behavior across ret chain that is rewarded and should be imitated to improve a nodes overall reputation within the system.","thus in our case, it represents benevolent behavior across constellation that is rewarded and should be imitated to improve a nodes overall reputation within the system.",0.885804653
+RealTract.docx@Constellation.docx,in our case the gossiping of messages is our anamorphism and the hashing of those messages plus the result of the previous block is our catamorphism.,"https://github.com/w3f/polkadot-whitepaper/raw/master/polkadotpaper.pdf
+
+
+
+
+in our case the gossiping of messages is our anamorphism and the hashing of those messages plus the result of the previous block is our catamorphism.",0.849383116
+RealTract.docx@Constellation.docx,proof of result is meritocracy compared to proof of stake which is a plutocracy.,proof of meme is meritocracy compared to proof of stake which is a plutocracy.,0.841498494
+RealTract.docx@Constellation.docx,"instead of increasing prices when latency is high, commas with low reputation scores will be throttled; their transactions processed with lower priority.","instead of increasing prices when latency is high, memes with low reputation scores will be throttled; their transactions processed with lower priority.",0.830941677
+RealTract.docx@Constellation.docx,we incorporate their validation framework for our delegate selection in por.,we incorporate guru’s validation framework for our delegate selection method.,0.828599334
+RealTract.docx@Constellation.docx,this constant is used to shuffle our distribution (move sts between buckets based on new data of their performance).,this constant is used to shuffle our distribution (move memes between buckets based on new data of their performance).,0.821008444
+RealTract.docx@Constellation.docx,"a corresponding deterministic machine learning model, which uses this ontology (st) as it’s feature space, is used to determine the node’s reputation score and transitively the probability of said node being chosen to participate in consensus.","sabater,	regret:	a	reputation	model	for	gregarious	societies 
+
+
+
+
+deterministic machine learning model, which uses this ontology (meme) as it’s feature space, is used to determine the node’s reputation score and transitively the probability of said node being chosen to participate in consensus.",0.819002628
+RealTract.docx@Constellation.docx,"specifically the p. otte”sybil-resistant trust mechanisms in distributed systems” uses the netflow algorithm to prevent sybil attacks and a modification of pagerank, namely temporal pagerank, to update reputation state.","specifically the p. otte17 uses the netflow algorithm to prevent sybil attacks and a modification of pagerank, namely temporal pagerank, to update reputation state.",0.818801463
+RealTract.docx@Constellation.docx,"we will follow the approach used in regret to develop an ontology for a st, which will become the feature space for our reputation score.","we will follow the approach used in regret to develop an ontology for a meme, which will become the feature space for our reputation score.",0.815131545
