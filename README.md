@@ -17,7 +17,7 @@ Out of [290 Whitepapers](https://github.com/kimsammie/plagiarism/blob/main/white
 
 * [Sport_and_Leisure vs. AllSports](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/Sport_and_Leisure_vs._AllSports)
 * [PRIZM vs. Nxt](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/PRIZM_vs_Nxt)
-* RealTract vs. Constellation
+* [RealTract vs. Constellation](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/RealTract_vs_Constellation)
 
 (TO DO: need to add percentage of hits out of number of all sentences, create separate csvs and links)
 
