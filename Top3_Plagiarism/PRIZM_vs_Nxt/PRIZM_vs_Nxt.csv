@@ -1,0 +1,252 @@
+key,query,source,score
+PRIZM.docx@Nxt.docx,the first 64 bits of the account id are the visible account number.,the first 64 bits of the account id are the visible account number.,0.999999523
+PRIZM.docx@Nxt.docx,this creates a 64-byte signature that is then hashed using sha256.,"this creates a 64-byte signature, which is then hashed using sha256.",0.997453988
+PRIZM.docx@Nxt.docx,"transactions are considered safe after ten confirmations, which means that transactions become permanent in less than 14 minutes.","transactions are deemed safe after ten confirmations, meaning that transactions are permanent in less than 14 minutes.",0.99242276
+PRIZM.docx@Nxt.docx,"even if there are only a few active accounts on the network, one of them will eventually generate a block because thetarget value will become very large.","even if there are only a few active accounts on the network, one of them will eventually generate a block because the target value will become very large.",0.99043262
+PRIZM.docx@Nxt.docx,extreme forms of this attack include obtaining private keys from old accounts and using them to build a successful chain directly from the genesis block.,extreme forms of this attack involve obtaining the private keys from old accounts and using them to build a successful chain right from the genesis block.,0.985868573
+PRIZM.docx@Nxt.docx,this target value and the base target value are the same for all accounts that are trying to to forge on top of a particular block.,this target value and the base target value are the same for all accounts attempting to forge on top of a specific block.,0.985325336
+PRIZM.docx@Nxt.docx,the public key is hashed with sha256 to obtain the account id.,the public key is hashed with sha256 to derive the account id.,0.984069765
+PRIZM.docx@Nxt.docx,"by default, the deadline is 1440 minutes (24 hours).",the default deadline is 1440 minutes (24 hours).,0.98322624
+PRIZM.docx@Nxt.docx,any account that meets these criteria is called an active account.,any account that meets these criteria is referred to as an active account.,0.981917858
+PRIZM.docx@Nxt.docx,"when an account is accessed with a secret passphrase for the first time, it is not protected by a public key.","when an account is accessed by a secret passphrase for the very first time, it is not secured by a public key.",0.981446028
+PRIZM.docx@Nxt.docx,"because subsequent blocks are added to an existing blockchain, each additional block adds another confirmation to the number of transaction confirmations.","as subsequent blocks are added to the existing blockchain, each additional block adds one more confirmation to the number of confirmations for a transaction.",0.980278611
+PRIZM.docx@Nxt.docx,low cost and resource consumption of these devices significantly reduce network costs compared to traditional cryptocurrency proof of work.,the low cost and resource consumption of these devices significantly reduce network costs in comparison with traditional proof of work cryptocurrencies.,0.979525208
+PRIZM.docx@Nxt.docx,this limits the time frame in which a bad actor could establish this form of attack.,this limits the time frame in which a bad actor could mount this form of attack.,0.978901744
+PRIZM.docx@Nxt.docx,"asic technology is thepinnacle of the line for bitcoin miners, but the arms race continues with the advent of different generations of asic chips.","asic technology is the top of the line for bitcoin miners, but the arms race continues with various generations of asic chips now coming into service.",0.976528764
+PRIZM.docx@Nxt.docx,"in novem­ ber 2013, forbes magazine published an article titled "" global bitcoin computing power is 256 times faster than 500 combined supercomputers!"".","in november 2013, forbes magazine ran an article entitled, ""global bitcoin computing power now 256 times faster than top 500 supercomputers, combined!""[6].",0.97605139
+PRIZM.docx@Nxt.docx,"these collisions are detected and prevented as follows: after a certain passphrase is used to access the account, and the account is protected with a 256-bit public key, no other public-private key pair can access this account number.","these collisions are detected and prevented in the following way:once a specific passphrase is used to access an account, and that account is secured by a 256-bit public key, no other public-private key pair is permitted to access that account number.",0.975667119
+PRIZM.docx@Nxt.docx,"each transactionin a block is represented by a maximum of 160 bytes, and the maximum block size is 32 kb.","each transaction in a block is represented by a maximum of 160 bytes, and the maximum block size is 32kb.",0.974826694
+PRIZM.docx@Nxt.docx,"the newly created blocks are distributed to the network by the node (and the associated account) that creates them, and the transaction that is included in the block is considered to be one confirmation received.","newly-created blocks are distributed to the network by the node (and associated account) that creates them, and a transaction that is included in a block is considered as having received one confirmation.",0.973254442
+PRIZM.docx@Nxt.docx,"when the first outgoing transaction is made from the account, the 256-bit public key received from the passphrase is stored in the blockchain, and this protects the account.","when the first outgoing transaction from an account is made, the 256-bit public key derived from the passphrase is stored on the blockchain, and this secures the account.",0.971703589
+PRIZM.docx@Nxt.docx,"since any node can request an effective balance for any active account, it is possible to go through all active accounts to determine their individual hit value.","since any node can query the effective balance for any active account, it is possible to iterate through all active accounts in order to determine their individual hit value.",0.971518219
+PRIZM.docx@Nxt.docx,"this is done by ""hashing"" combining all bitcoin transactions occurring within the last ten minutes, and trying to encrypt them into a block of data, which also coincidentally has a certain number of consecutive zeros in it.","this is done by ""hashing"" bundling all bitcoin transactions occurring over the past ten minutes and trying to encrypt them into a block of data that also coincidentally has a certain number of consecutive zeros in it.",0.971213043
+PRIZM.docx@Nxt.docx,"if the transaction was not included in the block before the transaction deadline, the transaction is removed from the network.","if a transaction has not been included in a block before the transaction deadline expires, the transaction is removed from the network.",0.96972543
+PRIZM.docx@Nxt.docx,"most trial blocks generated by hashing miners do not have this target number of zeros, so they make small changes and try again.","most trial blocks generated by a miner’s hashing effort don’t have this target number of zeros, so they make a slight change and try again.",0.967646241
+PRIZM.docx@Nxt.docx,each node has built-in ddos protection mechanisms (distributed denial of services) that limit the number of network requests from any user to 30 per second.,each node features built-in ddos (distributed denial of services) defence mechanisms which restrict the number of network requests from any peer to 30 per second.,0.966953278
+PRIZM.docx@Nxt.docx,andthese numbers are now going up the exponential growth curve as bitcoin marches from its current one transaction per second to its current maximum of seven trans­ actions per second.,and these numbers are currently headed upward in an exponential growth curve as bitcoin marches from its current one transaction per second to its current maximum of seven transactions per second.,0.965329766
+PRIZM.docx@Nxt.docx,this block is then transmitted to the network as a blockchain candidate.,this block is then broadcast to the network as a candidate for the blockchain.,0.965280175
+PRIZM.docx@Nxt.docx,"the maximum target value is 1,53722867x 1017, andtheminimum target value is half the base target value of the previous block.",the maximum target value is 1.53722867 x 1017 and the minimum target value is one half of the previous block’s base target value.,0.96445936
+PRIZM.docx@Nxt.docx,"to participate in the forging process of a block, the active account cryptologically signs the previous generated block with its own public key.","to participate in the block forging process, an active account cryptographically signs the generation signature of the previous block with its own public key.",0.964394093
+PRIZM.docx@Nxt.docx,"basic payments
+
+the most fundamental feature of any cryptocurrency is the ability to transfer coins from one account to another.","basic payments
+the most fundamental feature of any cryptocurrency is the ability to transmit tokens from one account to another.",0.964175344
+PRIZM.docx@Nxt.docx,"if thecalculated hit is lower than the target, the next block can be generated.","if the computed hit is lower than the target, then the next block can be generated.",0.963176787
+PRIZM.docx@Nxt.docx,"initially, bitcoins were mined using a central processor (cpu), a typical desktop computer.",originally bitcoins were mined using the central processing unit (cpu) of a typical desktop computer.,0.962650061
+PRIZM.docx@Nxt.docx,"blocks are linked by virtue of these links, creating a chain of blocks (and transactions) that can be traced back to the genesis block.","blocks are linked by virtue of these connections, creating a chain of blocks (and transactions) that can be traced all the
+way back to the genesis block.",0.961706758
+PRIZM.docx@Nxt.docx,"about of transactions per day
+
+by the end of 2013, thenumber of transactions processed in the bitcoin network reached a maximum of 70,000 per day, which is about 0.8 transactions per second (tps).","transactions per day
+in late 2013, the number of transactions being processed on the bitcoin network was peaking at 70,000 per day, which is about 0.8 transactions per second (tps).",0.961154819
+PRIZM.docx@Nxt.docx,"wallet.dat
+
+bitcoin and related currencies often use an encrypted file, under the name and wallet, to store generated addresses for receiving coins.","wallet.dat bitcoin and related currencies often use an encrypted file, called a wallet, to store generated addresses for receiving tokens.",0.957722008
+PRIZM.docx@Nxt.docx,"in early january 2014 ghash.io began to voluntarily reduce the power of its own mining, as it ap­ proached the level of 51%.","in early january, 2014, ghash.io began voluntarily decreasing its own mining power because it was approaching the 51% level[3].",0.957219064
+PRIZM.docx@Nxt.docx,"subsequent blocks are generated based on verifiable, unique, and almost unpredictable information from the previous block.","subsequent blocks are generated based on verifiable, unique, and almost-unpredictable information from the preceding block.",0.956974924
+PRIZM.docx@Nxt.docx,"as noted in the target value formula, the targetvalue increaseswith each second.","as noted in the target value formula, the target value increases with each passing second.",0.956840158
+PRIZM.docx@Nxt.docx,"the current standard bitcoin block size of one megabyte, generated (on average) every ten minutes on the""full"" site ofcustomers, limits the maximum bandwidth ofthe existingbitcoin network to about 7 tps.","the current bitcoin standard block size of one megabyte, generated every ten minutes (on average) by “full node” clients, limits the maximum capacity of the current bitcoin network to a about 7 tps.",0.956620216
+PRIZM.docx@Nxt.docx,the first 8 bytes of the resulting hash gives a number called the hit your account.,"the first 8 bytes of the resulting hash gives a number, referred to as the account’s hit.",0.955331862
+PRIZM.docx@Nxt.docx,"as a result, the cost to attack the peercoin network is low, since the intruders can con­ tinue to try to generate blocks (called grinding the steak) until then, until they are successful.","as a result, the cost to attack the peercoin network is low, since attackers can keep attempting to generate blocks (referred to as grinding stake) until they succeed.",0.955031633
+PRIZM.docx@Nxt.docx,"in the future, features such as multi-signature transactions can use deadlines as a means of enforcing expiration.","in the future, features such as multi-signature transactions may be able to take advantage of deadlines as a means of enforcing an expiry date.",0.950116754
+PRIZM.docx@Nxt.docx,"unlike an efficient balance sheet, this balance cannot be assigned to any other account.","unlike the effective balance, this balance cannot be assigned to any other account.",0.949592412
+PRIZM.docx@Nxt.docx,the current generation of asic chips is theso-called 28 nm devices based on the size oftheir microscopic transistorsin nanometers.,"the current generation of asic chips are the so-called 28nm units, based on the size of their microscopic transistors in nanometers.",0.949568212
+PRIZM.docx@Nxt.docx,"blockchain size
+
+the bitcoin blockchain is a complete sequential collection of the generated data blocks containing the e-book registers all bitcoin transactions that have taken place since its launch in january 2009th.","blockchain size
+the bitcoin blockchain is the complete sequential collection of generated data blocks containing the electronic ledger book for all bitcoin transactions occurring since its launch in january 2009. four years later in january 2013, the size of the bitcoin blockchain stood at 4 gigabytes (gb) – about the amount of data required to store a two hour movie on a dvd disk.",0.948013842
+PRIZM.docx@Nxt.docx,this leads to potential vulnerabilities.,this leads to possible vulnerabilities[8].,0.947721541
+PRIZM.docx@Nxt.docx,"peercoin minimizes these and other risks by centrally publishing block­ chain checkpoints several times a day to ""freeze"" the blockchain and block transac­ tions.","peercoin minimizes these and other risks by centrally broadcasting blockchain checkpoints several times a day, to ""freeze"" the blockchain and lock in transactions[11].",0.946403801
+PRIZM.docx@Nxt.docx,"although this attack is theoretically possible, it is currently impractical.","while this attack is theoretically possible, it is currently not practical.",0.943827391
+PRIZM.docx@Nxt.docx,"problems of centralization
+
+
+the complexity increase and combined hash rate for bitcoin has created a high barrier to entry for newcomers, and lower profits for existing mining installations.","centralization concerns
+the increasing difficulty42 and combined network hashrate43 for bitcoin has created a high barrier to entry for newcomers, and diminished returns for existing mining rigs.",0.942487538
+PRIZM.docx@Nxt.docx,"the address space for public keys (2256) is larger than the address space for account numbers (264), so there is no one-to-one matching of code words to account numbers and possible collisions.","the address space for public keys (2256) is larger than the address space for account numbers (264), so there is no one-to-one mapping of passphrases to account numbers and collisions are possible.",0.942367315
+PRIZM.docx@Nxt.docx,this process is known as mining.,"this process is known as ""mining"".",0.939391971
+PRIZM.docx@Nxt.docx,the hit is com­ pared to the current target value.,the hit is compared to the current target value.,0.939208388
+PRIZM.docx@Nxt.docx,"this computing power is provided by the so-called mining rigs, which are managed by miners.","this computing power is provided by so-called ""mining rigs"" operated by ""miners"".",0.938215375
+PRIZM.docx@Nxt.docx,bitcoin miners compete with each other to add the next block of transactions to the overall bitcoin chain.,bitcoin miners compete among themselves to add the next transaction block to the overall bitcoin blockchain.,0.937354922
+PRIZM.docx@Nxt.docx,"in addition, the"" account leasing ""function allows you to set an effective balance on another account for a temporary period.","in addition, the account leasing feature allows an account’s effective balance to be assigned to another account for a temporary period.",0.936874986
+PRIZM.docx@Nxt.docx,"due tothe extremely low probability that any account will take over the blockchain managementby creating its own chain of blocks, transactions are considered safe if they are encoded into a block that is 10 blocks lo­ cated behind the current block.","due to the extremely low probability of any account taking control of the blockchain by generating its own chain of blocks, transactions are deemed safe once they are encoded into a block that is 10 blocks behind the current block height.",0.936598957
+PRIZM.docx@Nxt.docx,the only defined account parameter is an effective balance parameter.,the only account-specific parameter is the effective balance parameter.,0.934724569
+PRIZM.docx@Nxt.docx,but no one could predict that the incentives provided by proof of work systems would lead to the centralization of the mining process.,"], but nobody could have predicted that the incentives provided by proof of work systems would result in the centralization of the mining process.",0.934246063
+PRIZM.docx@Nxt.docx,"the transparent forging implementation allows transactions to be processed almost instantly, significantly increasing this limit.","the planned implementation of transparent forging will allow for near instant transaction processing, drastically increasing this limit.",0.933591187
+PRIZM.docx@Nxt.docx,the base account balance accounts for all transactions that have at least one confirmation.,the basic balance of an account accounts for all transactions that have had at least one confirmation.,0.932775378
+PRIZM.docx@Nxt.docx,"eighteen months later, in july 2014th, the bitcoin blockchain size increasedby almost five-to 19 gigabytes (gb) 37. bitcoin blockchain is undergo­ ing exponential growth, and modifications to the original bitcoin protocol will require a solution to this.","eighteen months later, in july 2014, the size of the bitcoin blockchain had swelled by almost a factor of five to 19 gigabytes (gb)37. the bitcoin blockchain is undergoing exponential growth and modifications to the original bitcoin protocol will be required to deal with it.",0.932725549
+PRIZM.docx@Nxt.docx,"transactions can be left unconfirmed because they are invalid or distorted, or because blocks are filled with transactions that offer to pay a higher commission.","transactions may be left unconfirmed because they are invalid or malformed, or because blocks are being filled will transactions that have offered to pay higher transaction fees.",0.931061864
+PRIZM.docx@Nxt.docx,the power and costs associatedwith this wasteful bitcoin background support are enormous.,the power and cost involved in this wasteful background mining support of bitcoin is enormous.,0.930386424
+PRIZM.docx@Nxt.docx,"as the proof of work network develops, the individual user has less incentive to support the network, as their potential reward is distributed among more colleagues.","as a proof of work network becomes stronger, there is less incentive for an individual peer to support the network, because their potential reward is split among a greater number of peers.",0.928623557
+PRIZM.docx@Nxt.docx,this competition among miners with the award is repeated again and again every ten minutes or so.,"this competition among miners, with its hefty reward, repeats itself over and over and over every ten minutes or so.",0.928407371
+PRIZM.docx@Nxt.docx,the concept of decentralization is at risk of total loss.,the concept of decentralization is at risk of being completely lost.,0.928402424
+PRIZM.docx@Nxt.docx,a transaction that was sent to the network but was not included in the block is called an unconfirmed transaction.,a transaction that has been broadcast to the network but has not been included in a block is referred to as an unconfirmed transaction.,0.924393415
+PRIZM.docx@Nxt.docx,"time to confirm transaction
+
+transaction confirmation times for bitcoin ranged from 5 to 10 min­ utes for the most part during 2013. after the announcement at the end of 2013th that chinese banks would not be allowed to process bitcoins, the average bitcoin transaction time increased signifi­ cantly, to 8-13 minutes, with periodic peaks of 19 minutes.","transaction confirmation time
+transaction confirmation times for bitcoin ranged from 5 to 10 minutes for most of 2013. after the late 2013 announcement that chinese banks would not be
+38https://nxtblocks.info/#section/blockexplorer_blocks
+39https://en.bitcoin.it/wiki/thin_client_security
+40https://en.bitcoin.it/wiki/scalability#simplified_payment_verification
+
+
+
+
+allowed to process bitcoins, the average bitcoin transaction time significantly increased to 8 to 13 minutes, with occasional peaks of 19 minutes41.",0.922706783
+PRIZM.docx@Nxt.docx,the guaranteed account balance consists of all tokens that were stationary on the account for 1440 units.,the guaranteed balance of an account consists of all tokens that have been stationary in an account for 1440 blocks.,0.919818461
+PRIZM.docx@Nxt.docx,"for every$ 1,000 bitcoin that it belongs to, this person pays
+$100 for bitcoin this year to ""pay"" miners for network security.","for each $1000usd worth of bitcoin someone owns, that person is paying $100usd per bitcoin this year to ""pay"" miners for keeping the network secure.",0.918969274
+PRIZM.docx@Nxt.docx,"interestingly, the new base target for the next block cannot be reasonably predicted, so a virtually deterministic process of determining who will force the next block becomes more and more sto­ chastic as attempts are made to predict future blocks.","interestingly, the new base target value for the next block cannot be reasonably predicted, so the nearly-deterministic process of determining who will forge the next block becomes increasingly stochastic as attempts are made to predict future blocks.",0.914810538
+PRIZM.docx@Nxt.docx,"with so much money on the bet, miners supported the rapid arms race in mining rig technology to improve their chances ofwinning.","with so much money at stake, miners have supported a blistering arms race in mining rig technology to better their odds of winning.",0.913719773
+PRIZM.docx@Nxt.docx,"when the peercoin blocks are separated, the consumed coin age is returned back to the original block account.","when peercoin blocks are orphaned,the consumed coin age is released back to the block’s originating account.",0.913482487
+PRIZM.docx@Nxt.docx,unconfirmed balances and unconfirmed asset balance list of all assets associated with a specific account.,unconfirmed asset balances lists the unconfirmed balances of all the assets associated with a specific account.,0.913393021
+PRIZM.docx@Nxt.docx,"however, for the entire e-economy to be based on a fully decentralized peer-to-peer solution, the system must be able to do the following:
+
+
+process transactions securely, quickly and efficiently, in the amount of thousands per hour or more;
+encourage people to participate in network security;
+scale at the global level with the minimum consumption of resources;
+and to be able to work on a wide range of devices including mobile.","however, for an entire electronic economy to be based on a fully decentralized, peer-to-peer solution, it must be able to do the following: process transactions securely, quickly and efficiently, at the rate of thousands per hour or more; provide incentives for people to participate in securing the network; scale globally with a minimal resource footprint; offer a range of basic transaction types that launch cryptocurrencies past the core feature of a payment system alone; provide an agile architecture that facilitates the addition of new core features, and allows for the creation and deployment of advanced applications; and be able to run on a broad range of devices, including mobile ones.",0.904045463
+PRIZM.docx@Nxt.docx,there are also attacks that require only 25% of the total network hashing power.,attacks requiring as little as 25% of total network hashing power also exist[2].,0.903066099
+PRIZM.docx@Nxt.docx,"the timing of the transaction
+
+each transaction contains a deadline parameter set to the number of minutes since thetransactionwas sent to the network.","transaction deadlines every transaction contains a deadline parameter, set to a number of minutes from the time the transaction is submitted to the network.",0.901802599
+PRIZM.docx@Nxt.docx,"while an attacker might want to mark a node to gain trust on the network and then use that trust for malicious purposes, the barrier to entry (the cost of pzm needed to build adequate trust) prevents such abuse.",while an attacker might wish to hallmark a node in order to gain trustworthiness within the network and then use that trust for malicious purposes; the barrier to entry (cost of nxt required to build adequate trust) discourages such abuse.,0.901788414
+PRIZM.docx@Nxt.docx,"block generation time is approximately 59 seconds, but changes in the probabilities have led to the fact that the average gen­ eration time of the block can be 80 seconds, there are longer intervals of blocks.","block generation time is targeted at 60 seconds, but variations in probabilities have resulted in an average block generation time of 80 seconds, with occasionally very long block intervals.",0.900760055
+PRIZM.docx@Nxt.docx,then to increase the speed of the used chip of a specialized graphics processing unit (gpu) to high-end graphics cards.,then the specialized graphics processing unit (gpu) chips in high-end video cards were used to increase speeds.,0.898098707
+PRIZM.docx@Nxt.docx,"if a transaction is not included in the block before it expires, it burns and is deleted from the transaction pool.","if a transaction is not included in a block before its deadline, it expires and is removed from the transaction pool.",0.897803307
+PRIZM.docx@Nxt.docx,"in mid-january 2014, the statistics stored on the site blockchain.info, showed that the continuoussupportof bitcoin operations requires a continu­ ous hash rate of about 18 million gh / s. within one day, this hashing power produced 1.5 trillion trial blocks, which were generated and rejected by bitcoin's mayonnaise, in search of one magical 144 blocks that will cover them $ 2.2 million.","in mid january 2014, statistics maintained at blockchain.info showed that ongoing support of bitcoin operations required a continuous hash rate of around 18 million gh/sec.",0.895865619
+PRIZM.docx@Nxt.docx,"this value is equal:
+t tb x s x be
+
+
+
+
+the reference target value
+
+
+
+the elapsed time since the last block in seconds
+
+
+
+
+the effective account balance
+
+
+
+
+
+as you can see from the formula, the target value increases with every second that has passed since the previous block.","this value is:
+
+t = tb × s × be
+where:
+t	is the new target value
+tb	is the base target value
+s	is the time since the last block, in seconds be	is the effective balance of the account
+13see 2.4.1 for an explanation of these parameters and how they are used.",0.894979179
+PRIZM.docx@Nxt.docx,guaranteed asset balances list (make a list) guaranteed balances of all assets associated with a particular account.,guaranteed asset balances lists the guaranteed balances of all the assets associated with a specific account.,0.894340992
+PRIZM.docx@Nxt.docx,"how­ ever, since several checks (usually six preferred confirmations) are required to complete a bitcoin transaction,one hourcan easily pass before the sale of assets paid for by bitcoin is completed.","nonetheless, since multiple verifications are required to finalize a bitcoin transaction (six confirmations is generally preferred), one hour can easily pass before a sale of assets paid for by bitcoin is complete.",0.890970826
+PRIZM.docx@Nxt.docx,"over time, the network becomes more centralized as smaller partners (those who can do less work) drop out or pool their resources into pools.","as time progresses, the network becomes more and more centralized as smaller peers (those who can do less work) drop out or combine their resources into ""pools"".",0.889952302
+PRIZM.docx@Nxt.docx,"in search of profitability miners continue to invest resources in the form of specialized, patented equipment that requires significant investment and high current energy costs.","in search of profitability, miners keep adding resources in the form of specialized, proprietary hardware that requires significant capital investment and high ongoing energy demands.",0.876095116
+PRIZM.docx@Nxt.docx,"bitcoin asic is similar to autistic scientists they can only perform the calculation of a block of bitcoins and nothing more, butthey can do it with onecalculation at the speeds of a supercomputer.","bitcoin asics are like autistic savants they are able to do only the bitcoin block calculation and nothing more, but they can do that one calculation at supercomputer speeds.",0.875592768
+PRIZM.docx@Nxt.docx,"not only does this create the kind of power structure that bit­ coin has designed to bypass, but it also presents the real possi­ bility that a single mining operation or pool can gain 51% of the total mining capacity in the 46 network and perform a 51% attack.","not only does this create the kind of power structure that bitcoin was designed to circumvent, but it also presents the real possibility that a single mining operation or pool could amass 51% of the network’s total mining power46 and execute a 51% attack[9].",0.875053048
+PRIZM.docx@Nxt.docx,"in a situation where multiple blocks are generated, nodes will select the block with the highest ac­ cumulated complexity as the authoritative block.","in a situation where multiple blocks are generated, nodes will select the block with the highest cumulative difficulty value as the authoritative block.",0.873386383
+PRIZM.docx@Nxt.docx,the last point is of great importance.,the last point is significant.,0.873123765
+PRIZM.docx@Nxt.docx,"to prevent an attacker from creating a new chain all the way from the genesis block, the network allows only the restructuring of the chain of 720 blocks located behind the current block.","to keep an attacker from generating a new chain all the way from the genesis block, the network only allows chain re-organization 720 blocks behind the current block height.",0.872475207
+PRIZM.docx@Nxt.docx,any block below this threshold shall be rejected.,any block submitted at a height lower than this threshold is rejected.,0.869837284
+PRIZM.docx@Nxt.docx,"the incentive to encourage blocks used by bitcoin has led to the creation of large single-tier installations of specialized mining equipment 44, as well as reli­ ance on a small set of large mining pools 45. this led to the effect of"" centralization"", where large volumes of mining are concentrated in the control of a decreasing number of people.","the block reward incentive employed by bitcoin has driven the creation of large, single-owner installations of dedicated mining hardware44, as well as the reliance on a small set of large mining pools45.",0.868042827
+PRIZM.docx@Nxt.docx,"comparsion with peercoin pro o f o f stake
+
+
+peercoin uses thesetting of the age of the coin as part of the algorithm the probabili­ ty of mining.","contrast with peercoin proof of stake
+
+peercoin uses a coin age parameter as part of its mining probability algorithm.",0.863634348
+PRIZM.docx@Nxt.docx,"a few days later, the power in the pool decreased to 34% of the total capacity of the network, but the speed immediately began to increase, and in june 2014 again reached dangerous levels.","after a few days, the pool’s mining power was reduced to 34% of the total network power, but the rate immediately began to increase again, and once more reached dangerous levels in june 2014[5].",0.861745298
+PRIZM.docx@Nxt.docx,"four years later, in january 2013th, bitcoin's blockchain size was 4 gigabytes (gb) the approximate amount ofdata needed tostore a two-hourmovie on a dvd.","blockchain size
+the bitcoin blockchain is the complete sequential collection of generated data blocks containing the electronic ledger book for all bitcoin transactions occurring since its launch in january 2009. four years later in january 2013, the size of the bitcoin blockchain stood at 4 gigabytes (gb) – about the amount of data required to store a two hour movie on a dvd disk.",0.859327793
+PRIZM.docx@Nxt.docx,"in novem­ ber 2013, forbes magazine published an article titled "" global bitcoin computing power is 256 times faster than 500 combined supercomputers!"".","global bitcoin computing power now 256 times faster than top 500 supercomputers, combined!",0.859178483
+PRIZM.docx@Nxt.docx,"curve25519 cryptographyis used toprovide a balance of security and the required processing power along with the more commonly used sha256 hashing algo rit hm s.
+
+
+
+te	ies
+
+pr	i z m
+
+in the traditional ""proof of work"" modelused by the majority of cryptocurrencies, network security is ensured by participants performing ""work"".","curve25519 cryptography is used to provide a balance of security and required processing power, along with more commonly-used sha256 hashing algorithms.",0.858682811
+PRIZM.docx@Nxt.docx,"they should be replaced by 20nm asic modules by the end of 2014. an example of a new state of the art mining rig would be a 28nm asic card ""the monarch"" from butterfly labs, which is to provide 600gh / sec for an electricity consumption of 350 watts and a price of 2,200 usd.","an example of an upcoming state-of-the-art mining rig would be a butterfly labs ""monarch"" 28nm asic card, which is to provide 600gh/sec for an electricity consumption of 350 watts and a price of $2200usd50.",0.857843995
+PRIZM.docx@Nxt.docx,the guaranteed account balance consists of all tokens that were stationary on the account for 1440 units.,an account’s effective balance consists of all tokens that have been stationary in that account for 1440 blocks.,0.855277956
+PRIZM.docx@Nxt.docx,"the more the balance of account is linked to a marked node, the more confidence is given to this node.","the larger the balance of an account tied to a hallmarked node, the more trust is given to that node.",0.854819357
+PRIZM.docx@Nxt.docx,"each type serves a different pur­ pose, and many of these values are validated as part of the validation and transaction processing.","each type serves a different purpose,and many of these values are checked as part of transaction validation and processing.",0.853784084
+PRIZM.docx@Nxt.docx,"the cost of pow maintaining relating to the coins' holders
+in addition to the huge costs of electricity, there is a hidden fee for the simple storage of bitcoins.","proof of work’s resource costs pertaining to coinholders
+in addition to massive electrical costs, there is a hidden fee for simply holding bitcoins.",0.850323915
+PRIZM.docx@Nxt.docx,"address account, coded solomon-code associated with a secret passphrase is generated in the following way:
+
+the secret passphrase is hashed using sha256 to retrieve the account's private key.","the reed-solomon-encoded account address associated with a secret passphrase is generated as follows:
+the secret passphrase is hashed with sha256 to derive the account’s
+private key.",0.844712257
+PRIZM.docx@Nxt.docx,"for each block found, the one who generates the block receives a reward.","for each block found, the entity that generates the block receives a stipend.",0.843884826
+PRIZM.docx@Nxt.docx,"at the time of writing, it's a 25 btc reward, which is 10% inflation in the total bitcoin supply just this year.","at the time of writing, this stipend is 25 btc, producing 10% inflation in the total bitcoin supply this year alone.",0.841368914
+PRIZM.docx@Nxt.docx,"if the attack fails, the attempt is worthless because the coins are already sold or transferred; if the attack succeeds, the attacker gets his tokens back.","if the attack fails, the attempt costs nothing because the tokens have already been sold or traded; if the attack succeeds, the attacker gets their tokens back.",0.841126084
+PRIZM.docx@Nxt.docx,"the creator of bitcoin satoshi nakamoto, intended to bitcoin network was completely decentralized.","bitcoin’s creator, satoshi nakamoto,intended for the bitcoin network to be fully decentralized[?",0.840389967
+PRIZM.docx@Nxt.docx,"the bitcoin 10 pool has reached 51% of bitcoin mining power in the past, and the top five bitcoin mining pools make up 70% of the hashing power of the network.","the ghash.io4 bitcoin pool has reached 51% of the bitcoin mining power in the past[10], and the top five bitcoinminingpoolsmakeup70%ofthebitcoinnetwork’shashingpower5.",0.838368535
+PRIZM.docx@Nxt.docx,"coins that meet this criterion contribute to an efficient account balance, and that balance is used to determine the probability of forging.","tokens that meet this criterion contribute to an account’s effective balance, and this balance is used to determine forging probability.",0.83585155
+PRIZM.docx@Nxt.docx,the private key is encrypted using curve25519 to obtain the public li<ey of the ac count .,"the private key is encrypted with curve25519 to derive the account’s
+public key.",0.833199739
+PRIZM.docx@Nxt.docx,"the frequency of block generation, which determines each available reward for mining cryptocurrencies, as a rule, should remain constant.","the frequency of block generation, which determineseachcryptocurrency’savailableminingreward,isgenerallyintended to stay constant.",0.831598878
+PRIZM.docx@Nxt.docx,"blocks are scanned as they are received from other nodes, and in cases where a block check is not performed, the nodes can be ""black­ listed"" temporarily to prevent the dissemination of invalid block data.","blocks are validated as they are received from other nodes12, and in cases where block validation fails, nodes may be “blacklisted”temporarily to prevent the propagation of invalid block data.",0.831555247
+PRIZM.docx@Nxt.docx,"if all bitcoin mining rigs had ""mon­ arch"" levels, as described above and theywill not be until theyare upgradedtheywill representa pool of 30,000machinesworth more than$ 63 million.","if all bitcoin mining rigs had ""monarch"" levels of capability as described above which they will not, until they are upgraded they would represent a pool of 30,000 machines costing over $63 million usd and consuming over 10 megawatts of continuous power while running up an electricity bill of over $3.5 million usd per day51.",0.830095291
+PRIZM.docx@Nxt.docx,"the act of ""meet­ ing"" the block requires the consumption of the dignity of the coin age, and the net­ work determines the consensus by selecting the chain with the greatest total con­ sumed coin age.","the act of ""minting"" a block requires the consumption of coin age value, and the network determines consensus by selecting the chain with the largest total consumed coin age.",0.829712987
+PRIZM.docx@Nxt.docx,"the"" chance"" of cre­ ating a block by any account depends only on its current balance (which is the advan­ tage of each account), the time since the last block (which is shared by all forging ac­ counts) and the base target value (which is also common for all accounts
+
+
+
+
+
+
+
+tokens
+the initial em ission is 10 m illion pzm and the final amount is 6 b illion pzm.","an account’s ""chance"" to forge a block depends only on its effective balance (which is a property of each account), the time since the last block (which is shared by all forging accounts) and the base target value (which is also shared by all accounts).",0.829660892
+PRIZM.docx@Nxt.docx,"it represents the current account balance, net of the coins involved in uncon­ firmed, sent transactions.","it represents the current balance of an account, minus the tokens involved in unconfirmed, sent transactions.",0.829568624
+PRIZM.docx@Nxt.docx,"because the block data is distributed among the members (peers), forks (unauthorized chain fragments) are detected and dismantled by examining the cumulative complexity of the chains stored in each fork.","as block data is shared between peers, forks (non-authoritativechainfragments)aredetectedanddismantled by examining the chains’ cumulative difficulty values stored in each fork.",0.828424871
+PRIZM.docx@Nxt.docx,"this process is known as forging and is akin to the notion of ""mining"" used by other cryptocurrencies.","thisprocessisknownasforging,andisakin to the “mining”concept employed by other cryptocurrencies.",0.827185512
+PRIZM.docx@Nxt.docx,"review
+
+
+2
+i
+1
+
+
+
+
+
+blocks are generated every 60 seconds, on average, by accounts that are not blocked on network nodes.","blocks are generated every 60 seconds, on average, by accounts that are unlocked
+on network nodes.",0.824717045
+PRIZM.docx@Nxt.docx,"the more coins you have in your account, the more likely it is that your account will be entitled to create a block.","the more tokens that are held in the account, the greater the chance that account will earn the right to generate a block.",0.820969105
+PRIZM.docx@Nxt.docx,"this workbook provides a permanent record of the transactions that have oc­ curred, and it also establishes the order in which the transactions were made.","this ledger provides a permanent record of transactions that have taken place,and also establishes the order in which transactions have occurred.",0.819763303
+PRIZM.docx@Nxt.docx,"an effective account balance consists of all the coins that were stationary on that account for 1,440 blocks.",an account’s effective balance consists of all tokens that have been stationary in that account for 1440 blocks.,0.819148779
+PRIZM.docx@Nxt.docx,"attacks on history
+
+in ""attack on history,"" someone acquires a large number of coins, sells them, and then tries to create a successful fork just before their coins have been sold or exchanged.","history attack
+
+ina“historyattack”,someoneacquiresalargenumberoftokens,sellsthem, and then attempts to create a successful fork from just before the time when their tokens were sold or traded.",0.81731391
+PRIZM.docx@Nxt.docx,the consequence ofthis is that you can estimate the time it will take for any account toforce the block by comparing the hit value of that account to the target value.,the corollary of this is that you can estimate the time that will be required for any account to forge a block by comparing that account’s hit value to the target value.,0.816959798
+PRIZM.docx@Nxt.docx,"transactions are considered secure after 10 block confirmations, and the current archi­ tecture and block size of the pzm allow processing up to 367,200 transactions per day.","transactions are deemed safe after 10 block confirmations, andnxt’scurrentarchitectureand block size cap allows for the processing of up to 367,200 transactions per day.",0.816626191
+PRIZM.docx@Nxt.docx,"in mid-january 2014, the statistics stored on the site blockchain.info, showed that the continuoussupportof bitcoin operations requires a continu­ ous hash rate of about 18 million gh / s. within one day, this hashing power produced 1.5 trillion trial blocks, which were generated and rejected by bitcoin's mayonnaise, in search of one magical 144 blocks that will cover them $ 2.2 million.","during the course of one day, that much hashing power produced 1.5 trillion trial blocks that were generated and rejected by bitcoin miners looking for one the magic 144 blocks that would net them $2.2 million usd.",0.815175533
+PRIZM.docx@Nxt.docx,the payload that gen erates the account and all signatures on each block can be checked by all the network nodes that receive it.,"the payload value, generating account, and all of the signatures on each block can be verified by all network nodes who receive it.",0.814243078
+PRIZM.docx@Nxt.docx,"since then, the confirmation time has shifted from 8 to 10 minutes.",confirmation times have since resettled in the 8 to 10 minute range.,0.8115803
+PRIZM.docx@Nxt.docx,"coins that meet this criterion contribute to an efficient account balance, and that balance is used to determine the probability of forging.",the effective balance of an account is used as the basis for an account’s forging calculations15.,0.809731841
+PRIZM.docx@Nxt.docx,"this format was implemented in response to concerns that an incorrect account address could result in coinsj aliases, or assets being irreversibly transferred to erroneous target accoun ts.","this format was implemented in response to concerns that
+
+14for more information:
+
+
+
+
+a mistyped account address could result in tokens, aliases, or assets being irreversibly transferred to erroneous destination accounts.",0.808745503
+PRIZM.docx@Nxt.docx,"if a transaction is not included in the block before it expires, it burns and is deleted from the transaction pool.","if a transaction has not been included in a block before the transaction deadline expires, the transaction is removed from the network.",0.806036353
+PRIZM.docx@Nxt.docx,"if the transaction was not included in the block before the transaction deadline, the transaction is removed from the network.","if a transaction is not included in a block before its deadline, it expires and is removed from the transaction pool.",0.804073095
+PRIZM.docx@Nxt.docx,the extreme form of this attack usually fails because the prizm blockchain cannot be reorganized by more than 720 blocks behind the current block height.,the extreme form of this attack generally fails because the nxt blockchain cannot be re-organized more than 720 blocksbehindthecurrent block height.,0.802842259
