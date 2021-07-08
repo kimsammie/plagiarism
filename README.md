@@ -15,9 +15,9 @@ After reviewing preliminary results, model [paraphrase-distilroberta-base-v2](ht
 
 Out of [290 Whitepapers](https://github.com/kimsammie/plagiarism/blob/main/whitepaper_list.csv) examined, the below 3 pairs of whitepapers were detected as potentially plagiarised papers. Note that the model detects potential plagiarism according to guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification. 
 
-* [Sport_and_Leisure vs. AllSports](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/Sport_and_Leisure_vs._AllSports)
-* [PRIZM vs. Nxt](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/PRIZM_vs_Nxt)
-* [RealTract vs. Constellation](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/RealTract_vs_Constellation)
+* [Sport_and_Leisure vs. AllSports](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/Sport_and_Leisure_vs._AllSports) - 124 matched sentences after removing the legal disclaimer hits. Average number of matched sentences across the whitepaper pairs was 1.7. 
+* [PRIZM vs. Nxt](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/PRIZM_vs_Nxt) - 81 matched sentences.
+* [RealTract vs. Constellation](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/RealTract_vs_Constellation) - 15 matched sentences.
 
-(TO DO: need to add percentage of hits out of number of all sentences, create separate csvs and links)
+
 
