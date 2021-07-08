@@ -13,11 +13,13 @@ Steps taken are:
 
 After reviewing preliminary results, model [paraphrase-distilroberta-base-v2](https://huggingface.co/sentence-transformers/paraphrase-distilroberta-base-v2) was chosen as it demonstrated better accuracy for my dataset. Initial results show a lot of false positives because of the common legal disclaimer that's used across the whitepapers. In the next iteration, I removed hits against the legal disclaimer and sentences lengths that are less than 20 to reduce noise arising from parsing issues. 
 
-Out of [290 Whitepapers](https://github.com/kimsammie/plagiarism/blob/main/whitepaper_list.csv) examined, the below 3 pairs of whitepapers were detected as potentially plagiarised papers. Note that the model detects potential plagiarism according to guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification. 
+Out of [290 Whitepapers](https://github.com/kimsammie/plagiarism/blob/main/whitepaper_list.csv) examined, the below 3 pairs of whitepapers were detected as potentially plagiarised paper sas they have the highest numbers of matches exceeding the Cosine Similarity threshold of 0.8, after removing the legal disclaimer hits. The ones that are not selected as top 3 are due to other common phrases typically used in legal documents or related projects (e.g., MakerDAO and Dai, where Dai is a stablecoin issued by MakerDao, an Ethereum-based protocol). The average number of matched sentences across the whitepaper pairs was 1.7.
 
-* [Sport_and_Leisure vs. AllSports](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/Sport_and_Leisure_vs._AllSports) - 124 matched sentences after removing the legal disclaimer hits. Average number of matched sentences across the whitepaper pairs was 1.7. 
+* [Sport_and_Leisure vs. AllSports](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/Sport_and_Leisure_vs._AllSports) - 124 matched sentences.   
 * [PRIZM vs. Nxt](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/PRIZM_vs_Nxt) - 81 matched sentences.
 * [RealTract vs. Constellation](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/RealTract_vs_Constellation) - 15 matched sentences.
+
+**Disclaimer:** Note that the model detects potential plagiarism according to guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification. 
 
 
 
