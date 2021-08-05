@@ -1,0 +1,11 @@
+az login
+
+az group create -l eastus -n PlagiarismApp
+
+az acr create --name PlagiarismAppRegistry --resource-group PlagiarismApp --sku basic --admin-enabled true
+
+az acr build --registry PlagiarismAppRegistry --resource-group PlagiarismApp --image plagiarism-app .
+
+az appservice plan create -g PlagiarismApp -n PlagiarismAppServicePlan -l eastus --is-linux --sku B1
+
+az webapp create -g PlagiarismApp -p PlagiarismAppServicePlan -n whitepaper-plagiarism -i plagiarismappregistry.azurecr.io/plagiarism-app:latest

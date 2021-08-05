@@ -1,0 +1,8 @@
+numpy
+pandas
+streamlit
+nltk
+docx
+python-docx
+torch
+sentence-transformers
