@@ -19,7 +19,9 @@ Out of [290 Whitepapers](https://github.com/kimsammie/plagiarism/blob/main/white
 * [PRIZM vs. Nxt](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/PRIZM_vs_Nxt) - 81 matched sentences.
 * [RealTract vs. Constellation](https://github.com/kimsammie/plagiarism/tree/main/Top3_Plagiarism/RealTract_vs_Constellation) - 15 matched sentences.
 
-**Disclaimer:** Note that the model detects potential plagiarism according to guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification. 
+**Disclaimer:** Note that the model detects "potential" plagiarism according to guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification to see whether there was any collaboration between projects, etc. 
 
+Please see the ipynb files for data exploration and cosine similarity results. 
 
+I created a user interface using streamlit and hosted the web app using Azure. You will need all files in the "streamlit-azure-deployment" folder to replicate my implementation. 
 
