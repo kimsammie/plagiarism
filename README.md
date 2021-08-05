@@ -24,4 +24,4 @@ Please see the ipynb files for data exploration and cosine similarity results.
 I created a user interface using [streamlit](https://streamlit.io/) and hosted the web app using [Azure](https://azure.microsoft.com/en-us/services/app-service/web/). You will need all files in the "streamlit-azure-deployment" folder to replicate my implementation. 
 
 
-**Disclaimer: Note that the model detects "potential" plagiarism according to the guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification to see whether there was any collaboration between projects, etc. 
+**Disclaimer: Note that the model detects "potential" plagiarism according to the guidelines typically used in academia and journalism. No direct contact with the relevant project owners was conducted for further verification to see whether there was any collaboration between projects, etc.** 
